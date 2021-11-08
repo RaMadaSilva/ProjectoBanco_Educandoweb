@@ -1,0 +1,16 @@
+E:\EducandoWeb\BancoCazenga\BancoCazenga\bin\Debug\net5.0\BancoCazenga.exe
+E:\EducandoWeb\BancoCazenga\BancoCazenga\bin\Debug\net5.0\BancoCazenga.deps.json
+E:\EducandoWeb\BancoCazenga\BancoCazenga\bin\Debug\net5.0\BancoCazenga.runtimeconfig.json
+E:\EducandoWeb\BancoCazenga\BancoCazenga\bin\Debug\net5.0\BancoCazenga.runtimeconfig.dev.json
+E:\EducandoWeb\BancoCazenga\BancoCazenga\bin\Debug\net5.0\BancoCazenga.dll
+E:\EducandoWeb\BancoCazenga\BancoCazenga\bin\Debug\net5.0\ref\BancoCazenga.dll
+E:\EducandoWeb\BancoCazenga\BancoCazenga\bin\Debug\net5.0\BancoCazenga.pdb
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\BancoCazenga.csproj.AssemblyReference.cache
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\BancoCazenga.GeneratedMSBuildEditorConfig.editorconfig
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\BancoCazenga.AssemblyInfoInputs.cache
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\BancoCazenga.AssemblyInfo.cs
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\BancoCazenga.csproj.CoreCompileInputs.cache
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\BancoCazenga.dll
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\ref\BancoCazenga.dll
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\BancoCazenga.pdb
+E:\EducandoWeb\BancoCazenga\BancoCazenga\obj\Debug\net5.0\BancoCazenga.genruntimeconfig.cache
